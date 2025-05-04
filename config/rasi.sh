@@ -163,3 +163,5 @@ touch ~/.config/i3/config
 
 # Update the i3 config to use this theme
 sed -i 's/bindsym $mod+d exec rofi -show run -theme cyberpunk-neon/bindsym $mod+d exec rofi -show run -theme cyberpunk/g' ~/.config/i3/config
+
+echo "bindsym $mod+d exec rofi -show run -theme cyberpunk" >> ~/.config/i3/config
