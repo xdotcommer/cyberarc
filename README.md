@@ -20,3 +20,5 @@ sudo reboot
 * For picom errors, you might need a different version (picom-git from AUR).
 * If font awesome icons don't show in polybar, check that ttf-font-awesome is installed.
 * If wallpaper doesn't set properly, check the path in the i3 config.
+
+Once you've created the rofi theme and updated the i3 config, restart i3 with $mod+Shift+r to apply the changes. Your cyberpunk-themed window manager should be ready to go!RetryClaude can make mistakes. Please double-check responses.
